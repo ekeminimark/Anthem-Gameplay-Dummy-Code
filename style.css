@@ -1,0 +1,169 @@
+
+
+body {
+	font-family: 'Cabin';
+	margin: 0;
+	background: #ffffff;
+	height: auto;
+}
+
+h1 {
+	font-weight: 400;
+	font-size: 20px;
+	text-transform: uppercase;
+	margin: 0;
+	padding-top: 120px;
+}
+
+h2 {
+	font-weight: 400;
+	font-size: 100px;
+	text-transform: capitalize;
+	margin: 0;
+
+}
+
+img {
+	display: block;
+	width: 50%;
+	margin-left: 150px;
+	padding-left: 0px;
+	padding-bottom: 270px;
+
+
+}
+
+main{
+	max--width: 900px;
+	margin: auto;
+	box-shadow: 30px 0px 40p rgba(0,0,0,0,1),
+	-30px 0px 40px rgba(0,0,0,0,1);
+
+
+}
+
+#landing {
+background: #ffffff;
+
+
+
+}
+
+#landing-text{
+	display-flex;
+	flex: 0 1 40vw;
+	height: 50vh;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+#landing-text h2 {
+	color: #dbdbd7;
+
+}
+
+#landing-image {
+background:
+
+
+}
+.btn {
+	padding: 10px 10px;
+	border: 2px #ccc solid;
+	display: inline-block;
+	margin-top: 10px;
+	border-radius: 60px;
+	text-decoration; none;
+	color: #333;
+	transition: background 500ms ease;
+	text-align: center;
+	box-shadow: 10px;
+
+}
+
+.btn:hover{
+	background: #dbdbd7;
+
+	
+}
+.btn2 {
+	padding: 10px 10px;
+	border: 2px #ccc solid;
+	display: inline-block;
+	margin-top: 50px;
+	border-radius: 60px;
+	text-decoration; none;
+	color: #333;
+	transition: background 500ms ease;
+	text-align: center;
+	box-shadow: 30px;
+
+}
+
+.btn2:hover{
+	background: #ADD8E6;
+
+}
+
+#header {
+	padding: 20px;
+	text-align: center;
+	background: #ADD8E6;
+	color: #dbdbd7;
+	margin-top: 300px;
+	margin-bottom: 150px;
+}
+
+#header h2 {
+
+	border-left: dotted 0.5px #dbdbd7;
+	border-right: dotted 0.5px #dbdbd7;
+	display: inline-block;
+	padding-right: 1rem;
+	padding-left: 1rem;
+
+
+}
+
+.caption {
+	padding: 0.8rem;
+	text-align: justify-all;
+	padding-left: 800px;
+	margin-top: -700px;
+	font-color: #dbdbd7 ;
+
+}
+
+.caption h3 {
+	color: #dbdbd7;
+	background-color:  #ADD8E6;
+	border-left: dotted 0.5px #fff;
+	border-right: dotted 0.5px #fff;
+
+}
+
+#images{
+	align-content: center;
+}
+
+footer {
+	text-align: center;
+	padding: 1rem 1rem;
+	margin: auto;
+	color: #ffffff;
+	background-color: #dbdbd7;
+	margin-top: 200px;
+
+
+}
+
+footer h3 {
+	font-size: 3rem;
+	margin-bottom: 0;
+	
+
+}
+
